@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjayRahul
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics and Azure
+- 👀 I’m interested in Data Analytics and Data Engineering
+- 🌱 I’m currently learning Machine Learning in Scala and R.
 - 💞️ I’m looking to collaborate on Data Analytics open source projects
 - 📫 Reach me at https://www.linkedin.com/in/ajay-rahul-73926a149/
 
